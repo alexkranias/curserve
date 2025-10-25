@@ -1,3 +1,6 @@
 [submodule "qwen-code-ipc"]
 	path = qwen-code-ipc
 	url = https://github.com/alexkranias/qwen-code-ipc.git
+[submodule "mem-search-service"]
+	path = mem-search-service
+	url = https://github.com/nathan-barry/mem-search-service.git
