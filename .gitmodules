@@ -1,0 +1,3 @@
+[submodule "qwen-code-ipc"]
+	path = qwen-code-ipc
+	url = https://github.com/alexkranias/qwen-code-ipc.git
